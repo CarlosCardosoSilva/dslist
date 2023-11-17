@@ -4,8 +4,8 @@
 # Sobre o projeto
 
 https://wmazoni-sds1.netlify.app
-O projeto back end consistem em uma aplicação de uma coleção de jogos de plataforma 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior")
+O projeto back end consistem em uma aplicação de uma coleção de jogos de plataforma a onde o usuário poderá ter a cesso lista de jogos e erroganizar a lista posicionando seus jogos favoritos em qualquer posição de sua lista.
+ 
 
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
