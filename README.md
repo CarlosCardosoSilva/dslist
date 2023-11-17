@@ -11,6 +11,7 @@
 - Spring Boot
 - JPA / Hibernate
 - Maven
+- Docker compose
 ## Perfis de projeto
 1. Perfis de projetos de desenvolvimento e testes:
 - test
