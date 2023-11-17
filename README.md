@@ -4,6 +4,7 @@
 # Sobre o projeto
 
 É um sistema de coleção de jogos de plataformas e aventura e RPG  a onde o usuário poderá ter a cesso listas de jogos e erroganizar a lista posicionando seus jogos favoritos em qualquer posição de sua lista.
+# Modelo conceitual DSList
 
 # Tecnologias utilizadas
 ## Back end
