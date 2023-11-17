@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O projeto back end consistem em uma aplicação de uma um sistema de coleção de jogos de plataforma a onde o usuário poderá ter a cesso lista de jogos e erroganizar a lista posicionando seus jogos favoritos em qualquer posição de sua lista.
+É um sistema de coleção de jogos de plataformas e RPG  a onde o usuário poderá ter a cesso listas de jogos e erroganizar a lista posicionando seus jogos favoritos em qualquer posição de sua lista.
 
 # Tecnologias utilizadas
 ## Back end
