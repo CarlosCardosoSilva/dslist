@@ -11,8 +11,8 @@
 - Spring Boot
 - JPA / Hibernate
 - Maven
-# Perfis de projeto
-##Perfis de projetos de desenvolvimento e testes:
+## Perfis de projeto
+  1. Perfis de projetos de desenvolvimento e testes:
 - test
 - Banco de dados H2 
 ## Implantação em produção
