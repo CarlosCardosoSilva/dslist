@@ -1,9 +1,9 @@
-# Big Game Survey 
+# DSList PRO
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto
 
-O projeto back end consistem em uma aplicação de uma coleção de jogos de plataforma a onde o usuário poderá ter a cesso lista de jogos e erroganizar a lista posicionando seus jogos favoritos em qualquer posição de sua lista.
+O projeto back end consistem em uma aplicação de uma um sistema de coleção de jogos de plataforma a onde o usuário poderá ter a cesso lista de jogos e erroganizar a lista posicionando seus jogos favoritos em qualquer posição de sua lista.
 
 # Tecnologias utilizadas
 ## Back end
@@ -11,6 +11,9 @@ O projeto back end consistem em uma aplicação de uma coleção de jogos de pla
 - Spring Boot
 - JPA / Hibernate
 - Maven
+
+##Perfis de projetos
+- 
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
