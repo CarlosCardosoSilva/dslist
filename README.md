@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-É um sistema de coleção de jogos de plataformas e RPG  a onde o usuário poderá ter a cesso listas de jogos e erroganizar a lista posicionando seus jogos favoritos em qualquer posição de sua lista.
+É um sistema de coleção de jogos de plataformas e aventura e RPG  a onde o usuário poderá ter a cesso listas de jogos e erroganizar a lista posicionando seus jogos favoritos em qualquer posição de sua lista.
 
 # Tecnologias utilizadas
 ## Back end
@@ -11,9 +11,10 @@
 - Spring Boot
 - JPA / Hibernate
 - Maven
-
-##Perfis de projetos
-- 
+# Perfis de projeto
+##Perfis de projetos de desenvolvimento e testes:
+- test
+- Banco de dados H2 
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
