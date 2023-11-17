@@ -5,7 +5,8 @@
 
 É um sistema de coleção de jogos de plataformas e aventura e RPG  a onde o usuário poderá ter a cesso listas de jogos e erroganizar a lista posicionando seus jogos favoritos em qualquer posição de sua lista.
 # Modelo conceitual DSList
-https://github.com/CarlosCardosoSilva/dslist/issues/1#issue-1999018748
+![dslist-model](https://github.com/CarlosCardosoSilva/dslist/assets/93328383/99c02506-a311-4b85-ac7c-d4ac833f605b)
+
 # Tecnologias utilizadas
 ## Back end
 - Java
