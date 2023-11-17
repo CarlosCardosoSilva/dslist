@@ -23,9 +23,8 @@
 - prod
 - Banco de dados Postgres de produção
   
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
+## Processo de deploy com CI/CD
+- Back end: Railway
 - Banco de dados: Postgresql
 
 # Como executar o projeto
