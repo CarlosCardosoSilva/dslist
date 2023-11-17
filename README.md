@@ -12,9 +12,16 @@
 - JPA / Hibernate
 - Maven
 ## Perfis de projeto
-  1. Perfis de projetos de desenvolvimento e testes:
+1. Perfis de projetos de desenvolvimento e testes:
 - test
-- Banco de dados H2 
+- Banco de dados H2
+2. Perfil de homologação / staging
+- dev
+- Banco de dados Postgres de homologação
+3. Perfil de produção
+- prod
+- Banco de dados Postgres de produção
+  
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
